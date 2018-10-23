@@ -14,7 +14,6 @@ class sint
 		int a=Integer.parseInt(s1);
 		int b=Integer.parseInt(s2);
 		int c=a*b;
-		String s=Integer.toString(c);
-		System.out.println(s);
+		System.out.println(c);
 	}
 }
